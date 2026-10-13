@@ -1,2 +1,2 @@
-# simple-website
+# Simple-Website
 Phonetic alphabet website
